@@ -1,2 +1,2 @@
 # Projects
-this repository contains simple fun snake game 
+this repository contains simple fun Games
